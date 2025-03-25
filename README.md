@@ -97,3 +97,10 @@ Este código fornece um pipeline básico para reconhecimento de objetos com vis�
 - Uso de redes neurais mais complexas (ex: ResNet, MobileNet).
 - Implementação de técnicas de aumento de dados para melhorar a precisão.
 
+
+Para entender melhor, confira os seguintes links:
+- [Introdução à Visão Computacional](https://www.opencv.org/)
+- [Como funcionam as CNNs](https://towardsdatascience.com/a-guide-to-convolutional-neural-networks-29f29e05ec34)
+- [Documentação do OpenCV](https://docs.opencv.org/)
+
+
